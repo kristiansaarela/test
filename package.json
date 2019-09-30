@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kristiansaarela/test/issues"
   },
-  "homepage": "https://github.com/kristiansaarela/test#readme"
+  "homepage": "https://github.com/kristiansaarela/test#readme",
+  "dependencies": {
+    "express": "^3.21.2"
+  }
 }
