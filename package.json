@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install": "echo \"Warning: This (v3) version of package is outdated. Please update to v4\"",
-    "prestart": "echo \"Warning: this is outdated\"",
+    "install": "node w.js",
+    "prestart": "node w.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

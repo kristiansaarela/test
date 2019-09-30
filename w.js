@@ -1,0 +1,1 @@
+console.error('Warning: This is outdated package!')
